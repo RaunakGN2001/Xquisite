@@ -28,10 +28,10 @@ const ProductCard = ({ data }) => {
             {/* Description */}
             <div>
                 <p className='font-semibold text-lg'>
-                    {data.name}
+                    {data?.name}
                 </p>
                 <p className='text-sm text-gray-500'>
-                    {data.category.name}
+                    {data?.category?.name}
                 </p>
             </div>
 
