@@ -40,12 +40,11 @@ return (
                 <div className='p-4'>
                     <Filter valueKey='sizeId' name='Sizes' data={sizes} />
                     <Filter valueKey='colorId' name='Colors' data={colors} />
-                    
                 </div>
                 </Dialog.Panel>
             </div>
         </Dialog>
-    </> );
+    </> );      
 }
  
 export default MobileFilters;
