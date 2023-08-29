@@ -4,7 +4,7 @@ import { persist, createJSONStorage } from 'zustand/middleware';
 
 const useCart = create(
     persist(
-      (set, get) => ({
+      (set, get) => ({ 
         items: [],
         addItem: (data) => {
           const currentItems = get().items;
