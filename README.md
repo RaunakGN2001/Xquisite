@@ -4,7 +4,7 @@
 
 Welcome to the Xquisite E-Commerce repository! This project combines a Full Stack E-Commerce website with a comprehensive Dashboard & Content Management System (CMS). Built using Next.js 13 App Router, React, Tailwind CSS, Prisma, and MySQL, this application is designed to empower your online store management and provide an enhanced shopping experience.
 
-Make sure you've set up the [Xquisite-admin](https://github.com/AntonioErdeljac/next13-ecommerce-admin/tree/master) first as the administrative interface for this application.
+Make sure you've set up the [Xquisite-admin](https://github.com/RaunakGN2001/Xquisite-Admin) first as the administrative interface for this application.
 
 
 ## 🛠️ Tech Stack
